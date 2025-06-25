@@ -1,0 +1,16 @@
+{
+  "name": "qa_pw_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
